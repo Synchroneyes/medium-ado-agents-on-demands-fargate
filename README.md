@@ -1,6 +1,6 @@
 # Azure DevOps 🤝 AWS - On Demand agents using AWS, Terraform and Docker
 
-This repository contains the required code to deploy the solution describe in the medium article available at 
+This repository contains the required code to deploy the solution describe in the medium article available at https://medium.com/@monvoisinkevin/cut-self-hosted-azure-devops-agent-costs-using-aws-fargate-582290e489ac
 
 # High Level Infrastructure
 
